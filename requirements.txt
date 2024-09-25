@@ -1,4 +1,9 @@
+opencv-python
+numpy
 duckduckgo_search
-Pillow>=10.3.0 # not directly required, pinned by Snyk to avoid a vulnerability
+accelerate
 torch
 diffusers
+transformers
+
+#Pillow>=10.3.0
